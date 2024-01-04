@@ -1,7 +1,0 @@
-C:/Users/TEMP/Desktop/CPP-Project/cmake-build-debug/CMakeFiles/DataStructures_CPP.dir
-C:/Users/TEMP/Desktop/CPP-Project/cmake-build-debug/CMakeFiles/TestLinkedList.dir
-C:/Users/TEMP/Desktop/CPP-Project/cmake-build-debug/CMakeFiles/MathematicalExpression.dir
-C:/Users/TEMP/Desktop/CPP-Project/cmake-build-debug/CMakeFiles/Polynomial.dir
-C:/Users/TEMP/Desktop/CPP-Project/cmake-build-debug/CMakeFiles/DartsGame.dir
-C:/Users/TEMP/Desktop/CPP-Project/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/TEMP/Desktop/CPP-Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
